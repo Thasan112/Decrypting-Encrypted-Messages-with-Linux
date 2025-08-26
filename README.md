@@ -6,7 +6,8 @@ This project demonstrates how to use Linux command-line tools and cryptographic 
 The activity simulates a real-world scenario where files in a user’s home directory have been encrypted, and recovery is done by identifying and breaking a Caesar cipher, then decrypting with OpenSSL.
 
 
-⚙️ Tasks Completed
+## ⚙️ Tasks Completed
+
 # Task 1: Read the contents of a file
 
 Used ls to list files in /home/analyst
