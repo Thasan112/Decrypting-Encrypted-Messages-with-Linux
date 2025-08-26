@@ -32,7 +32,9 @@ Viewed the decrypted hidden message with cat
 <img width="835" height="265" alt="image" src="https://github.com/user-attachments/assets/ecbc72dc-ffa7-4427-9084-889516fc8255" />
 
 
-🧰 Tools & Commands Used
+
+
+# 🧰 Tools & Commands Used
 
 ls, ls -a → list files (including hidden ones)
 
